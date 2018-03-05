@@ -28,7 +28,7 @@ export class FirstCompo extends Component {
                     <p>
                         <h2 id='myNameHeading'>My name is {this.name} </h2>
                         I love learning to code because I love {this.hobby}.
-                    I enjoy meeting new people and now I have many friends they are {this.friends}.
+                    I enjoy meeting new people and now I have many friends and here are some of my friends. They are {this.friends}.
                         I also love travelling and there are a few places I would love to visit. This is one of the places I would like to go.
                 <button>
                             {this.wannaVisit}
