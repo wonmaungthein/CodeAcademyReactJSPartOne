@@ -1,7 +1,10 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
+.heading {
+    text-align: center;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
@@ -17,6 +20,8 @@
 .App-title {
   font-size: 1.5em;
   padding: 50px;
+  text-align: center;
+
 }
 
 .App-intro {
@@ -32,4 +37,12 @@
   border: 2px solid blue;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+.containerForPage {
+  border: springgreen 2px solid;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
